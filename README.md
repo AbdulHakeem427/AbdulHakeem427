@@ -1,9 +1,6 @@
 ### Hi there, I'm Abdul Hakeem 👋
 
-## Java Backend Developer | Spring Boot | Microservices | REST APIs
-
-### 🚀 About Me
-Java Developer skilled in Spring Boot, microservices architecture, and building scalable backend systems. Experienced in optimizing API performance, implementing secure authentication, and delivering production-ready applications. Passionate about clean code, system design, and solving real-world problems.
+## Java Backend Developer | Spring Boot | Microservices | REST APIs | SQL
 
 ### 📫 Connect with me:
 [<img align="left" alt="Abdul Hakeem | Portfolio" width="42px" src="https://img.icons8.com/color/2x/code.png" />][portfolio]
@@ -14,17 +11,7 @@ Java Developer skilled in Spring Boot, microservices architecture, and building 
 <br />
 <br />
 
-### 💼 Professional Highlights:
-- 🔹 Architected **6 Spring Boot microservices** handling **10K+ concurrent users**
-- 🔹 Optimized API response time from **500ms → 50ms** using Redis caching
-- 🔹 Reduced production bugs by **30%** through comprehensive validation and testing
-- 🔹 Achieved **90% test coverage** with JUnit and Mockito
-- 🔹 Built event-driven architectures using **Kafka** for scalable systems
-
-<br />
-
 ### 🛠️ Languages and Tools:
-
 #### Backend Development
 <img align="left" alt="Java" width="30px" src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" />
 <img align="left" alt="Spring Boot" width="30px" src="https://img.icons8.com/color/2x/spring-logo.png" />
@@ -91,13 +78,6 @@ Architected 6 Spring Boot microservices with Kafka event streaming, Redis cachin
 
 #### 🎬 [Movie Ticket Booking Application](https://github.com/AbdulHakeem427/MakeMyShow)
 Built a BookMyShow-like platform with Spring Boot MVC, optimized database queries by 30%, and implemented distributed locking.
-
----
-
-### 📜 Certifications:
-- ✅ Programming in Java - NPTEL
-- ✅ JavaScript, ReactJS and Spring Boot - Scaler Academy
-- ✅ Node.js Course Certification - Scaler Academy
 
 ---
 
