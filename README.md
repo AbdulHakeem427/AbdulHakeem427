@@ -1,7 +1,5 @@
 ### Hi there, I'm Abdul Hakeem 👋
 
-## Java Backend Developer | Spring Boot | Microservices | REST APIs | SQL
-
 ### 📫 Connect with me:
 [<img align="left" alt="Abdul Hakeem | Portfolio" width="42px" src="https://img.icons8.com/color/2x/code.png" />][portfolio]
 [<img align="left" alt="Abdul Hakeem | LinkedIn" width="42px" src="https://img.icons8.com/color/2x/linkedin.png" />][linkedin]
