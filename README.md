@@ -67,17 +67,6 @@
 <br />
 <br />
 
----
-
-### 🎯 Featured Projects:
-
-#### 🛒 [E-commerce Microservices Platform](https://github.com/AbdulHakeem427/E-Commerce-Application-Microservices-Backend-)
-Architected 6 Spring Boot microservices with Kafka event streaming, Redis caching, and Stripe payment integration.
-
-#### 🎬 [Movie Ticket Booking Application](https://github.com/AbdulHakeem427/MakeMyShow)
-Built a BookMyShow-like platform with Spring Boot MVC, optimized database queries by 30%, and implemented distributed locking.
-
----
 
 ### 📈 Current Focus:
 - 🔭 Working on microservices architecture and system design
@@ -86,8 +75,6 @@ Built a BookMyShow-like platform with Spring Boot MVC, optimized database querie
 - 💬 Ask me about Java, Spring Boot, REST APIs, and Microservices
 
 ---
-
-⭐️ From [Abdul Hakeem](https://github.com/AbdulHakeem427)
 
 [github]: https://github.com/AbdulHakeem427
 [linkedin]: https://www.linkedin.com/in/abdul-hakeem-530a64178/
